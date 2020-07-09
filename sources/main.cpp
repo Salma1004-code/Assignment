@@ -1,6 +1,7 @@
 #include<KareemElMaria.h>
 #include<nohanaguib.h>
-
+#include<iostream>
+using namespace std;
 int main()
 {
 	KareemElMaria();

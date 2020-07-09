@@ -1,3 +1,3 @@
-Info: main.cpp
-	g++ main.cpp -I /home/salma/Assignment/sources -o Info;
-	g++ main.cpp -I /home/salma/Assignment/headers -o Info;
+Info: /home/salma/Assignment/sources/main.cpp
+	g++ /home/salma/Assignment/sources/main.cpp -I /home/salma/Assignment/headers -o Info;
+	
