@@ -2,12 +2,6 @@
 
 int main()
 {
-	print();
+	KareemElMaria();
 	return 0;
-}
-
-void print()
-{
-	cout<<"KareemElMaria"<<endl;
-	cout<<"kareem.moataz@aucegypt.edu"<<endl;
 }
